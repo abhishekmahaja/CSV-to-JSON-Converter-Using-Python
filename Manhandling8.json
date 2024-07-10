@@ -1,0 +1,594 @@
+[
+    {
+        "timestamp": "17:00:00",
+        "data": 74.83
+    },
+    {
+        "timestamp": "17:00:01",
+        "data": 72.26
+    },
+    {
+        "timestamp": "17:00:02",
+        "data": 71.47
+    },
+    {
+        "timestamp": "17:00:03",
+        "data": 71.65
+    },
+    {
+        "timestamp": "17:00:04",
+        "data": 73.24
+    },
+    {
+        "timestamp": "17:00:05",
+        "data": 75.71
+    },
+    {
+        "timestamp": "17:00:06",
+        "data": 76.45
+    },
+    {
+        "timestamp": "17:00:07",
+        "data": 75.51
+    },
+    {
+        "timestamp": "17:00:08",
+        "data": 76.18
+    },
+    {
+        "timestamp": "17:00:09",
+        "data": 75.61
+    },
+    {
+        "timestamp": "17:00:10",
+        "data": 73.05
+    },
+    {
+        "timestamp": "17:00:11",
+        "data": 71.6
+    },
+    {
+        "timestamp": "17:00:12",
+        "data": 71.66
+    },
+    {
+        "timestamp": "17:00:13",
+        "data": 71.91
+    },
+    {
+        "timestamp": "17:00:14",
+        "data": 72.3
+    },
+    {
+        "timestamp": "17:00:15",
+        "data": 72.27
+    },
+    {
+        "timestamp": "17:00:16",
+        "data": 71.91
+    },
+    {
+        "timestamp": "17:00:17",
+        "data": 77.36
+    },
+    {
+        "timestamp": "17:00:18",
+        "data": 79.05
+    },
+    {
+        "timestamp": "17:00:19",
+        "data": 80.08
+    },
+    {
+        "timestamp": "17:00:20",
+        "data": 79.39
+    },
+    {
+        "timestamp": "17:00:21",
+        "data": 79.77
+    },
+    {
+        "timestamp": "17:00:22",
+        "data": 77.2
+    },
+    {
+        "timestamp": "17:00:23",
+        "data": 75.32
+    },
+    {
+        "timestamp": "17:00:24",
+        "data": 75.71
+    },
+    {
+        "timestamp": "17:00:25",
+        "data": 76.85
+    },
+    {
+        "timestamp": "17:00:26",
+        "data": 78.59
+    },
+    {
+        "timestamp": "17:00:27",
+        "data": 81.3
+    },
+    {
+        "timestamp": "17:00:28",
+        "data": 81.08
+    },
+    {
+        "timestamp": "17:00:29",
+        "data": 81.87
+    },
+    {
+        "timestamp": "17:00:30",
+        "data": 79.78
+    },
+    {
+        "timestamp": "17:00:31",
+        "data": 79.82
+    },
+    {
+        "timestamp": "17:00:32",
+        "data": 82.86
+    },
+    {
+        "timestamp": "17:00:33",
+        "data": 84.21
+    },
+    {
+        "timestamp": "17:00:34",
+        "data": 83.45
+    },
+    {
+        "timestamp": "17:00:35",
+        "data": 81.02
+    },
+    {
+        "timestamp": "17:00:36",
+        "data": 79.78
+    },
+    {
+        "timestamp": "17:00:37",
+        "data": 80.94
+    },
+    {
+        "timestamp": "17:00:38",
+        "data": 83.1
+    },
+    {
+        "timestamp": "17:00:39",
+        "data": 80.93
+    },
+    {
+        "timestamp": "17:00:40",
+        "data": 80.63
+    },
+    {
+        "timestamp": "17:00:41",
+        "data": 82.8
+    },
+    {
+        "timestamp": "17:00:42",
+        "data": 81.31
+    },
+    {
+        "timestamp": "17:00:43",
+        "data": 80.93
+    },
+    {
+        "timestamp": "17:00:44",
+        "data": 81.37
+    },
+    {
+        "timestamp": "17:00:45",
+        "data": 82.79
+    },
+    {
+        "timestamp": "17:00:46",
+        "data": 86.68
+    },
+    {
+        "timestamp": "17:00:47",
+        "data": 87.73
+    },
+    {
+        "timestamp": "17:00:48",
+        "data": 89.7
+    },
+    {
+        "timestamp": "17:00:49",
+        "data": 91.27
+    },
+    {
+        "timestamp": "17:00:50",
+        "data": 92.45
+    },
+    {
+        "timestamp": "17:00:51",
+        "data": 90.78
+    },
+    {
+        "timestamp": "17:00:52",
+        "data": 91.89
+    },
+    {
+        "timestamp": "17:00:53",
+        "data": 91.98
+    },
+    {
+        "timestamp": "17:00:54",
+        "data": 91.09
+    },
+    {
+        "timestamp": "17:00:55",
+        "data": 90.32
+    },
+    {
+        "timestamp": "17:00:56",
+        "data": 89.96
+    },
+    {
+        "timestamp": "17:00:57",
+        "data": 89.58
+    },
+    {
+        "timestamp": "17:00:58",
+        "data": 89.01
+    },
+    {
+        "timestamp": "17:00:59",
+        "data": 88.52
+    },
+    {
+        "timestamp": "17:01:00",
+        "data": 88.16
+    },
+    {
+        "timestamp": "17:01:01",
+        "data": 87.86
+    },
+    {
+        "timestamp": "17:01:02",
+        "data": 87.7
+    },
+    {
+        "timestamp": "17:01:03",
+        "data": 87.19
+    },
+    {
+        "timestamp": "17:01:04",
+        "data": 86.7
+    },
+    {
+        "timestamp": "17:01:05",
+        "data": 86.26
+    },
+    {
+        "timestamp": "17:01:06",
+        "data": 85.93
+    },
+    {
+        "timestamp": "17:01:07",
+        "data": 85.6
+    },
+    {
+        "timestamp": "17:01:08",
+        "data": 85.28
+    },
+    {
+        "timestamp": "17:01:09",
+        "data": 85.02
+    },
+    {
+        "timestamp": "17:01:10",
+        "data": 84.77
+    },
+    {
+        "timestamp": "17:01:11",
+        "data": 84.48
+    },
+    {
+        "timestamp": "17:01:12",
+        "data": 84.22
+    },
+    {
+        "timestamp": "17:01:13",
+        "data": 83.93
+    },
+    {
+        "timestamp": "17:01:14",
+        "data": 83.66
+    },
+    {
+        "timestamp": "17:01:15",
+        "data": 83.33
+    },
+    {
+        "timestamp": "17:01:16",
+        "data": 82.98
+    },
+    {
+        "timestamp": "17:01:17",
+        "data": 82.79
+    },
+    {
+        "timestamp": "17:01:18",
+        "data": 82.56
+    },
+    {
+        "timestamp": "17:01:19",
+        "data": 82.34
+    },
+    {
+        "timestamp": "17:01:20",
+        "data": 82.1
+    },
+    {
+        "timestamp": "17:01:21",
+        "data": 81.76
+    },
+    {
+        "timestamp": "17:01:22",
+        "data": 81.47
+    },
+    {
+        "timestamp": "17:01:23",
+        "data": 81.14
+    },
+    {
+        "timestamp": "17:01:24",
+        "data": 81
+    },
+    {
+        "timestamp": "17:01:25",
+        "data": 80.76
+    },
+    {
+        "timestamp": "17:01:26",
+        "data": 80.46
+    },
+    {
+        "timestamp": "17:01:27",
+        "data": 79.88
+    },
+    {
+        "timestamp": "17:01:28",
+        "data": 79.55
+    },
+    {
+        "timestamp": "17:01:29",
+        "data": 79.25
+    },
+    {
+        "timestamp": "17:01:30",
+        "data": 79.01
+    },
+    {
+        "timestamp": "17:01:31",
+        "data": 78.79
+    },
+    {
+        "timestamp": "17:01:32",
+        "data": 78.32
+    },
+    {
+        "timestamp": "17:01:33",
+        "data": 77.93
+    },
+    {
+        "timestamp": "17:01:34",
+        "data": 77.68
+    },
+    {
+        "timestamp": "17:01:35",
+        "data": 77.46
+    },
+    {
+        "timestamp": "17:01:36",
+        "data": 77.21
+    },
+    {
+        "timestamp": "17:01:37",
+        "data": 77
+    },
+    {
+        "timestamp": "17:01:38",
+        "data": 76.65
+    },
+    {
+        "timestamp": "17:01:39",
+        "data": 76.41
+    },
+    {
+        "timestamp": "17:01:40",
+        "data": 76.2
+    },
+    {
+        "timestamp": "17:01:41",
+        "data": 76.08
+    },
+    {
+        "timestamp": "17:01:42",
+        "data": 75.71
+    },
+    {
+        "timestamp": "17:01:43",
+        "data": 75.36
+    },
+    {
+        "timestamp": "17:01:44",
+        "data": 75.35
+    },
+    {
+        "timestamp": "17:01:45",
+        "data": 74.69
+    },
+    {
+        "timestamp": "17:01:46",
+        "data": 74.45
+    },
+    {
+        "timestamp": "17:01:47",
+        "data": 74.33
+    },
+    {
+        "timestamp": "17:01:48",
+        "data": 74.15
+    },
+    {
+        "timestamp": "17:01:49",
+        "data": 73.94
+    },
+    {
+        "timestamp": "17:01:50",
+        "data": 73.8
+    },
+    {
+        "timestamp": "17:01:51",
+        "data": 73.66
+    },
+    {
+        "timestamp": "17:01:52",
+        "data": 73.62
+    },
+    {
+        "timestamp": "17:01:53",
+        "data": 73.68
+    },
+    {
+        "timestamp": "17:01:54",
+        "data": 73.67
+    },
+    {
+        "timestamp": "17:01:55",
+        "data": 73.39
+    },
+    {
+        "timestamp": "17:01:56",
+        "data": 73.17
+    },
+    {
+        "timestamp": "17:01:57",
+        "data": 73.16
+    },
+    {
+        "timestamp": "17:01:58",
+        "data": 73.05
+    },
+    {
+        "timestamp": "17:01:59",
+        "data": 73.11
+    },
+    {
+        "timestamp": "17:02:00",
+        "data": 72.91
+    },
+    {
+        "timestamp": "17:02:01",
+        "data": 73.04
+    },
+    {
+        "timestamp": "17:02:02",
+        "data": 72.87
+    },
+    {
+        "timestamp": "17:02:03",
+        "data": 72.77
+    },
+    {
+        "timestamp": "17:02:04",
+        "data": 72.62
+    },
+    {
+        "timestamp": "17:02:05",
+        "data": 72.48
+    },
+    {
+        "timestamp": "17:02:06",
+        "data": 72.42
+    },
+    {
+        "timestamp": "17:02:07",
+        "data": 72.3
+    },
+    {
+        "timestamp": "17:02:08",
+        "data": 72.45
+    },
+    {
+        "timestamp": "17:02:09",
+        "data": 72.26
+    },
+    {
+        "timestamp": "17:02:10",
+        "data": 72.01
+    },
+    {
+        "timestamp": "17:02:11",
+        "data": 71.79
+    },
+    {
+        "timestamp": "17:02:12",
+        "data": 71.66
+    },
+    {
+        "timestamp": "17:02:13",
+        "data": 71.41
+    },
+    {
+        "timestamp": "17:02:14",
+        "data": 70.72
+    },
+    {
+        "timestamp": "17:02:15",
+        "data": 70.62
+    },
+    {
+        "timestamp": "17:02:16",
+        "data": 70.59
+    },
+    {
+        "timestamp": "17:02:17",
+        "data": 70.67
+    },
+    {
+        "timestamp": "17:02:18",
+        "data": 70.61
+    },
+    {
+        "timestamp": "17:02:19",
+        "data": 70.92
+    },
+    {
+        "timestamp": "17:02:20",
+        "data": 70.69
+    },
+    {
+        "timestamp": "17:02:21",
+        "data": 70.68
+    },
+    {
+        "timestamp": "17:02:22",
+        "data": 70.38
+    },
+    {
+        "timestamp": "17:02:23",
+        "data": 70.19
+    },
+    {
+        "timestamp": "17:02:24",
+        "data": 69.9
+    },
+    {
+        "timestamp": "17:02:25",
+        "data": 70.28
+    },
+    {
+        "timestamp": "17:02:26",
+        "data": 70.18
+    },
+    {
+        "timestamp": "17:02:27",
+        "data": 70.25
+    }
+]

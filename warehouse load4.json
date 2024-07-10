@@ -1,0 +1,594 @@
+[
+    {
+        "timestamp": "17:00:00",
+        "data": 8.054
+    },
+    {
+        "timestamp": "17:00:01",
+        "data": 6.993
+    },
+    {
+        "timestamp": "17:00:02",
+        "data": 9.978
+    },
+    {
+        "timestamp": "17:00:03",
+        "data": 10.336
+    },
+    {
+        "timestamp": "17:00:04",
+        "data": 8.26
+    },
+    {
+        "timestamp": "17:00:05",
+        "data": 7.979
+    },
+    {
+        "timestamp": "17:00:06",
+        "data": 8.699
+    },
+    {
+        "timestamp": "17:00:07",
+        "data": 9.862
+    },
+    {
+        "timestamp": "17:00:08",
+        "data": 9.056
+    },
+    {
+        "timestamp": "17:00:09",
+        "data": 8.556
+    },
+    {
+        "timestamp": "17:00:10",
+        "data": 9.059
+    },
+    {
+        "timestamp": "17:00:11",
+        "data": 10.127
+    },
+    {
+        "timestamp": "17:00:12",
+        "data": 9.466
+    },
+    {
+        "timestamp": "17:00:13",
+        "data": 7.899
+    },
+    {
+        "timestamp": "17:00:14",
+        "data": 10.085
+    },
+    {
+        "timestamp": "17:00:15",
+        "data": 6.934
+    },
+    {
+        "timestamp": "17:00:16",
+        "data": 10.867
+    },
+    {
+        "timestamp": "17:00:17",
+        "data": 6.592
+    },
+    {
+        "timestamp": "17:00:18",
+        "data": 8.665
+    },
+    {
+        "timestamp": "17:00:19",
+        "data": 7.753
+    },
+    {
+        "timestamp": "17:00:20",
+        "data": 8.457
+    },
+    {
+        "timestamp": "17:00:21",
+        "data": 9.235
+    },
+    {
+        "timestamp": "17:00:22",
+        "data": 8.399
+    },
+    {
+        "timestamp": "17:00:23",
+        "data": 9.796
+    },
+    {
+        "timestamp": "17:00:24",
+        "data": 10.545
+    },
+    {
+        "timestamp": "17:00:25",
+        "data": 7.777
+    },
+    {
+        "timestamp": "17:00:26",
+        "data": 10.236
+    },
+    {
+        "timestamp": "17:00:27",
+        "data": 9.448
+    },
+    {
+        "timestamp": "17:00:28",
+        "data": 6.352
+    },
+    {
+        "timestamp": "17:00:29",
+        "data": 6.578
+    },
+    {
+        "timestamp": "17:00:30",
+        "data": 9.986
+    },
+    {
+        "timestamp": "17:00:31",
+        "data": 9.528
+    },
+    {
+        "timestamp": "17:00:32",
+        "data": 7.643
+    },
+    {
+        "timestamp": "17:00:33",
+        "data": 7.09
+    },
+    {
+        "timestamp": "17:00:34",
+        "data": 7.793
+    },
+    {
+        "timestamp": "17:00:35",
+        "data": 8.777
+    },
+    {
+        "timestamp": "17:00:36",
+        "data": 8.121
+    },
+    {
+        "timestamp": "17:00:37",
+        "data": 6.468
+    },
+    {
+        "timestamp": "17:00:38",
+        "data": 9.61
+    },
+    {
+        "timestamp": "17:00:39",
+        "data": 9.206
+    },
+    {
+        "timestamp": "17:00:40",
+        "data": 9.507
+    },
+    {
+        "timestamp": "17:00:41",
+        "data": 9.498
+    },
+    {
+        "timestamp": "17:00:42",
+        "data": 9.667
+    },
+    {
+        "timestamp": "17:00:43",
+        "data": 9.762
+    },
+    {
+        "timestamp": "17:00:44",
+        "data": 8.39
+    },
+    {
+        "timestamp": "17:00:45",
+        "data": 8.572
+    },
+    {
+        "timestamp": "17:00:46",
+        "data": 7.694
+    },
+    {
+        "timestamp": "17:00:47",
+        "data": 10.635
+    },
+    {
+        "timestamp": "17:00:48",
+        "data": 6.598
+    },
+    {
+        "timestamp": "17:00:49",
+        "data": 8.304
+    },
+    {
+        "timestamp": "17:00:50",
+        "data": 10.788
+    },
+    {
+        "timestamp": "17:00:51",
+        "data": 6.4
+    },
+    {
+        "timestamp": "17:00:52",
+        "data": 8.648
+    },
+    {
+        "timestamp": "17:00:53",
+        "data": 7.147
+    },
+    {
+        "timestamp": "17:00:54",
+        "data": 6.904
+    },
+    {
+        "timestamp": "17:00:55",
+        "data": 6.882
+    },
+    {
+        "timestamp": "17:00:56",
+        "data": 7.236
+    },
+    {
+        "timestamp": "17:00:57",
+        "data": 6.689
+    },
+    {
+        "timestamp": "17:00:58",
+        "data": 10.005
+    },
+    {
+        "timestamp": "17:00:59",
+        "data": 8.35
+    },
+    {
+        "timestamp": "17:01:00",
+        "data": 8.722
+    },
+    {
+        "timestamp": "17:01:01",
+        "data": 10.025
+    },
+    {
+        "timestamp": "17:01:02",
+        "data": 10.457
+    },
+    {
+        "timestamp": "17:01:03",
+        "data": 8.03
+    },
+    {
+        "timestamp": "17:01:04",
+        "data": 7.951
+    },
+    {
+        "timestamp": "17:01:05",
+        "data": 9.931
+    },
+    {
+        "timestamp": "17:01:06",
+        "data": 8.389
+    },
+    {
+        "timestamp": "17:01:07",
+        "data": 9.114
+    },
+    {
+        "timestamp": "17:01:08",
+        "data": 9.593
+    },
+    {
+        "timestamp": "17:01:09",
+        "data": 6.586
+    },
+    {
+        "timestamp": "17:01:10",
+        "data": 9.261
+    },
+    {
+        "timestamp": "17:01:11",
+        "data": 10.429
+    },
+    {
+        "timestamp": "17:01:12",
+        "data": 7.66
+    },
+    {
+        "timestamp": "17:01:13",
+        "data": 9.757
+    },
+    {
+        "timestamp": "17:01:14",
+        "data": 9.825
+    },
+    {
+        "timestamp": "17:01:15",
+        "data": 6.692
+    },
+    {
+        "timestamp": "17:01:16",
+        "data": 10.591
+    },
+    {
+        "timestamp": "17:01:17",
+        "data": 9.025
+    },
+    {
+        "timestamp": "17:01:18",
+        "data": 9.868
+    },
+    {
+        "timestamp": "17:01:19",
+        "data": 10.205
+    },
+    {
+        "timestamp": "17:01:20",
+        "data": 9.954
+    },
+    {
+        "timestamp": "17:01:21",
+        "data": 8.924
+    },
+    {
+        "timestamp": "17:01:22",
+        "data": 10.109
+    },
+    {
+        "timestamp": "17:01:23",
+        "data": 9.91
+    },
+    {
+        "timestamp": "17:01:24",
+        "data": 9.09
+    },
+    {
+        "timestamp": "17:01:25",
+        "data": 7.574
+    },
+    {
+        "timestamp": "17:01:26",
+        "data": 7.147
+    },
+    {
+        "timestamp": "17:01:27",
+        "data": 8.523
+    },
+    {
+        "timestamp": "17:01:28",
+        "data": 7.574
+    },
+    {
+        "timestamp": "17:01:29",
+        "data": 7.008
+    },
+    {
+        "timestamp": "17:01:30",
+        "data": 8.727
+    },
+    {
+        "timestamp": "17:01:31",
+        "data": 9.132
+    },
+    {
+        "timestamp": "17:01:32",
+        "data": 10.452
+    },
+    {
+        "timestamp": "17:01:33",
+        "data": 8.368
+    },
+    {
+        "timestamp": "17:01:34",
+        "data": 8.692
+    },
+    {
+        "timestamp": "17:01:35",
+        "data": 7.26
+    },
+    {
+        "timestamp": "17:01:36",
+        "data": 6.992
+    },
+    {
+        "timestamp": "17:01:37",
+        "data": 6.516
+    },
+    {
+        "timestamp": "17:01:38",
+        "data": 7.478
+    },
+    {
+        "timestamp": "17:01:39",
+        "data": 10.076
+    },
+    {
+        "timestamp": "17:01:40",
+        "data": 10.191
+    },
+    {
+        "timestamp": "17:01:41",
+        "data": 10.565
+    },
+    {
+        "timestamp": "17:01:42",
+        "data": 10.415
+    },
+    {
+        "timestamp": "17:01:43",
+        "data": 8.493
+    },
+    {
+        "timestamp": "17:01:44",
+        "data": 8.177
+    },
+    {
+        "timestamp": "17:01:45",
+        "data": 7.742
+    },
+    {
+        "timestamp": "17:01:46",
+        "data": 6.452
+    },
+    {
+        "timestamp": "17:01:47",
+        "data": 8.409
+    },
+    {
+        "timestamp": "17:01:48",
+        "data": 8.144
+    },
+    {
+        "timestamp": "17:01:49",
+        "data": 6.991
+    },
+    {
+        "timestamp": "17:01:50",
+        "data": 9.647
+    },
+    {
+        "timestamp": "17:01:51",
+        "data": 9.01
+    },
+    {
+        "timestamp": "17:01:52",
+        "data": 9.456
+    },
+    {
+        "timestamp": "17:01:53",
+        "data": 7.927
+    },
+    {
+        "timestamp": "17:01:54",
+        "data": 8.832
+    },
+    {
+        "timestamp": "17:01:55",
+        "data": 7.854
+    },
+    {
+        "timestamp": "17:01:56",
+        "data": 7.566
+    },
+    {
+        "timestamp": "17:01:57",
+        "data": 9.695
+    },
+    {
+        "timestamp": "17:01:58",
+        "data": 10.086
+    },
+    {
+        "timestamp": "17:01:59",
+        "data": 10.884
+    },
+    {
+        "timestamp": "17:02:00",
+        "data": 9.33
+    },
+    {
+        "timestamp": "17:02:01",
+        "data": 8.114
+    },
+    {
+        "timestamp": "17:02:02",
+        "data": 6.63
+    },
+    {
+        "timestamp": "17:02:03",
+        "data": 10.47
+    },
+    {
+        "timestamp": "17:02:04",
+        "data": 8.283
+    },
+    {
+        "timestamp": "17:02:05",
+        "data": 10.635
+    },
+    {
+        "timestamp": "17:02:06",
+        "data": 8.496
+    },
+    {
+        "timestamp": "17:02:07",
+        "data": 7.088
+    },
+    {
+        "timestamp": "17:02:08",
+        "data": 7.307
+    },
+    {
+        "timestamp": "17:02:09",
+        "data": 10.048
+    },
+    {
+        "timestamp": "17:02:10",
+        "data": 9.159
+    },
+    {
+        "timestamp": "17:02:11",
+        "data": 6.622
+    },
+    {
+        "timestamp": "17:02:12",
+        "data": 6.545
+    },
+    {
+        "timestamp": "17:02:13",
+        "data": 10.855
+    },
+    {
+        "timestamp": "17:02:14",
+        "data": 10.086
+    },
+    {
+        "timestamp": "17:02:15",
+        "data": 10.094
+    },
+    {
+        "timestamp": "17:02:16",
+        "data": 6.942
+    },
+    {
+        "timestamp": "17:02:17",
+        "data": 6.896
+    },
+    {
+        "timestamp": "17:02:18",
+        "data": 8.779
+    },
+    {
+        "timestamp": "17:02:19",
+        "data": 8.648
+    },
+    {
+        "timestamp": "17:02:20",
+        "data": 7.761
+    },
+    {
+        "timestamp": "17:02:21",
+        "data": 10.059
+    },
+    {
+        "timestamp": "17:02:22",
+        "data": 6.719
+    },
+    {
+        "timestamp": "17:02:23",
+        "data": 10.107
+    },
+    {
+        "timestamp": "17:02:24",
+        "data": 8.903
+    },
+    {
+        "timestamp": "17:02:25",
+        "data": 6.779
+    },
+    {
+        "timestamp": "17:02:26",
+        "data": 8.768
+    },
+    {
+        "timestamp": "17:02:27",
+        "data": 10.428
+    }
+]
