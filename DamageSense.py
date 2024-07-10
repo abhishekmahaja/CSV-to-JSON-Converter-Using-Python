@@ -1,4 +1,7 @@
-import csv
+# In this script convert data 
+# based on Angle, Time, Lat, Longimport csv
+
+
 import json
 from datetime import datetime, timedelta
 
